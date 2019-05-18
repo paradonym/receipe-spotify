@@ -1,15 +1,14 @@
 {
-  "id": "franz-custom-website",
-  "name": "Custom Website",
+  "id": "franz-spotify",
+  "name": "Spotify",
   "version": "1.0.0",
-  "description": "Add a custom website to Franz",
+  "description": "Add Spotify to Franz",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Konstantin Knaab-Hinrichs <kontakt@schnell.news",
   "license": "MIT",
-  "repository": "https://github.com/meetfranz/recipe-custom-website",
+  "repository": "https://github.com/paradonym/recipe-spotify",
   "config": {
-    "hasNotificationSound": false,
-    "hasIndirectMessages": false,
-    "hasCustomUrl": true
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false
   }
 }
