@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Add Spotify to Franz",
   "main": "index.js",
-  "author": "Konstantin Knaab-Hinrichs <kontakt@schnell.news",
+  "author": "Konstantin Knaab-Hinrichs <kontakt@schnell.news>",
   "license": "MIT",
   "repository": "https://github.com/paradonym/recipe-spotify",
   "config": {
