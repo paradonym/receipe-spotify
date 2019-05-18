@@ -8,6 +8,7 @@
   "license": "MIT",
   "repository": "https://github.com/paradonym/recipe-spotify",
   "config": {
+    "serviceURL": "https://open.spotify.com/",
     "hasNotificationSound": true,
     "hasIndirectMessages": false
   }
